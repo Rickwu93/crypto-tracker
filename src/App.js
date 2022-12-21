@@ -7,7 +7,7 @@ import { Navbar } from './components';
 const App = () => {
   return (
     <div className="app">
-      <div className="navbar"
+      <div className="navbar">
           <Navbar />
       </div>
       <div className="main">
